@@ -14,7 +14,7 @@ Google Cloud Platform 上でPleromaを簡単に構築できるスタートアッ
 このリポジトリを clone します
 
 ```
-git clone https://github.com/S-H-GAMELINKS/Pleroma.Start.Script.for.GoogleCloudPlatform.git　pleroma
+git clone https://github.com/S-H-GAMELINKS/Pleroma.Start.Script.for.GoogleCloudPlatform.git pleroma
 ```
 
 clone したら、ディレクトリを移動し、
